@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+.container{
+    width: 50%;
+    margin: 0 auto;
+    padding:20px;
+    background-color: #e2e2e2;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.input-container{
+    margin: 15px 0;
+    text-align: left;
+
+}
+
+.btn{
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 10px 0;
+
+}
